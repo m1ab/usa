@@ -165,7 +165,7 @@ https://www.landcentury.com/articles-news/unrestricted-land-definition#:~:text=U
 свиней. И эти ограничения распространены за пределами районов, 
 контролируемых _HOA_<sup>2</sup>.
 
-> <sup>2</sup>HOA - Home Owner's Association - 
+> <sup>2</sup> _HOA_ - Home Owner's Association - 
 > Товарищество собственников жилья - ТСЖ по-русски.
 
 Не думайте, что, купив недвижимость за пределами района, вы 
@@ -200,7 +200,7 @@ https://www.landcentury.com/articles-news/unrestricted-land-definition#:~:text=U
 
 ### Удаление деревьев - _Tree Removal_
 
-В районах, контролируемых ТСЖ, обычно действуют ограничения 
+В районах, контролируемых _HOA_, обычно действуют ограничения 
 на вырубку деревьев, но эти ограничения могут также действовать 
 и на сельских землях.
 
@@ -266,7 +266,7 @@ https://www.landcentury.com/articles-news/unrestricted-land-definition#:~:text=U
 участков, особенно в окрестностях, не позволяют вам иметь на 
 территории передвижной дом.
 
-> <sup>3</sup>_Mobile Home_ - передвижной дом - иногда 
+> <sup>3</sup> _Mobile Home_ - передвижной дом - иногда 
 > называемый _Manufactured Home_, _Prefabricated Home_, 
 > _House Trailer_, _Trailer Park Home_ - это 
 > каркасный или щитовой дом выполненный на металлической раме
@@ -275,7 +275,7 @@ https://www.landcentury.com/articles-news/unrestricted-land-definition#:~:text=U
 > Может быть перемещен с одного участка на другой. 
 > Не предназначен для постоянного перемещения.
 
-> <sup>4</sup>_RV_ - _Recreational Vehicle_ - Транспортное 
+> <sup>4</sup> _RV_ - _Recreational Vehicle_ - Транспортное 
 > средство для отдыха, часто сокращенно называемое домом 
 > на колесах или автодомом, представляет собой автомобиль 
 > или прицеп, в котором имеются жилые помещения, 
